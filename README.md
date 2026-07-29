@@ -81,6 +81,8 @@ A SaaS-based ERP and Point of Sale platform designed for small and medium busine
 | **Automation** | Celery background jobs, scheduled reports, low stock alerts |
 | **Notifications** | Email, SMS, and WhatsApp queue system |
 | **SaaS Layer** | Tenant management, subdomain routing, superadmin panel |
+|**python easy to understand documentation**|Detailed handbook in docx that makes it easy to understand python
+
 
 `Python` `Django` `MySQL` `Celery` `Redis` `REST APIs` `Multi-tenancy`
 
